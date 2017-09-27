@@ -11,7 +11,7 @@ description="Bob Playlist Addon."
 
 name="Adult Addons"
 plugin="section"
-url="http://aftermathwizard.net/repo/wizard/addons2.txt"
+url="https://raw.githubusercontent.com/mr-unkown/repos/master/addons.txt"
 repository="none"
 repositoryxml="http://"
 repositoryurl="http://"
