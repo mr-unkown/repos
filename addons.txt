@@ -1,4 +1,4 @@
-name="Bob"
+name="[COLOR white]A[/COLOR][COLOR red]n[/COLOR][COLOR white]A[/COLOR][COLOR red]r[/COLOR][COLOR white]C[/COLOR][COLOR red]h[/COLOR][COLOR white]Y[/COLOR]"
 plugin="plugin.video.AnArchy"
 url="http://cru-cial-minds.com/mrunk/files/plugin.video.AnArchy/"
 repository="repository.CruCialminds"
