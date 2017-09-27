@@ -1,0 +1,146 @@
+<item>
+<title>Kodi Tips Repository</title>
+<repo_path>repository.koditips</repo_path>
+<xml>https://raw.githubusercontent.com/koditips/repo/master/_repo/addons.xml</xml>
+<zips>https://raw.githubusercontent.com/koditips/repo/master/_repo/</zips>
+</item>
+
+<item>
+<title>Jizz Planet Repository</title>
+<repo_path>repository.jizzplanet</repo_path>
+<xml>https://offshoregit.com/cosmixtv/jizzplanet/addons.xml</xml>
+<zips>https://offshoregit.com/cosmixtv/jizzplanet/</zips>
+</item>
+
+<item>
+<title>Shani Repository</title>
+<repo_path>repository.shani</repo_path>
+<xml>https://offshoregit.com/Shani-08/main/addons.xml</xml>
+<zips>https://offshoregit.com/Shani-08/main/zips/</zips>
+</item>
+
+<item>
+<title>Exodus Repository</title>
+<repo_path>repository.exodus</repo_path>
+<xml>https://offshoregit.com/exodus/addons.xml</xml>
+<zips>https://offshoregit.com/exodus/</zips>
+</item>
+
+<item>
+<title>TK Norris BETA Repository</title>
+<repo_path>repository.tknorris.beta</repo_path>
+<xml>http://github.com/tknorris/tknorris-beta-repo/raw/master/addons.xml</xml>
+<zips>http://github.com/tknorris/tknorris-beta-repo/raw/master/zips/</zips>
+</item>
+
+<item>
+<title>Husham Repository</title>
+<repo_path>repository.husham.com</repo_path>
+<xml>https://raw.githubusercontent.com/hmemar/husham.com/master/repository/addons.xml</xml>
+<zips>https://raw.githubusercontent.com/hmemar/husham.com/master/zip</zips>
+</item>
+
+<item>
+<title>Simtech Repository</title>
+<repo_path>repository.simtech</repo_path>
+<xml>http://simtech.net16.net/plugins/addons.xml</xml>
+<zips>http://simtech.net16.net/plugins/</zips>
+</item>
+
+<item>
+<title>Slim Evolve Repository</title>
+<repo_path>repository.slimevolve</repo_path>
+<xml>http://slimsrepo.uk/Plugins/addons.xml</xml>
+<zips>http://slimsrepo.uk/Plugins/</zips>
+</item>
+
+<item>
+<title>Ares Repository</title>
+<repo_path>repository.aresproject</repo_path>
+<xml>http://repo.ares-project.com/plugins/addons.xml</xml>
+<zips>http://repo.ares-project.com/plugins/</zips>
+</item>
+
+<item>
+<title>Evolve Repository</title>
+<repo_path>repository.MatsBuilds</repo_path>
+<xml>https://raw.githubusercontent.com/Goliath-Evolve/repository.Goliath/master/addons.xml</xml>
+<zips>https://raw.githubusercontent.com/Goliath-Evolve/repository.Goliath/master/zips/</zips>
+</item>
+
+<item>
+<title>Origin Repository</title>
+<repo_path>repository.origin</repo_path>
+<xml>https://raw.githubusercontent.com/toall1985/origin/master/_repo/addons.xml</xml>
+<zips>https://raw.githubusercontent.com/toall1985/origin/master/_repo/</zips>
+</item>
+
+<item>
+<title>Halow Repository</title>
+<repo_path>repository.HalowTV</repo_path>
+<xml>https://raw.githubusercontent.com/HalowTV/HalowTV/master/zips/addons.xml</xml>
+<zips>https://raw.githubusercontent.com/HalowTV/HalowTV/master/zips/</zips>
+</item>
+
+<item>
+<title>Master Repository</title>
+<repo_path>repository.master</repo_path>
+<xml>https://themasterepo.000webhostapp.com/Plugins/addons.xml</xml>
+<zips>https://themasterepo.000webhostapp.com/Plugins/</zips>
+</item>
+
+<item>
+<title>Kodi UKTV Repository</title>
+<repo_path>repository.kodiuktv</repo_path>
+<xml>https://raw.github.com/kodiuktv/kodiuktv/master/_repo/addons.xml</xml>
+<zips>https://raw.github.com/kodiuktv/kodiuktv/master/_repo/</zips>
+</item>
+
+<item>
+<title>TVA Repository</title>
+<repo_path>repository.xbmchub</repo_path>
+<xml>https://offshoregit.com/xbmchub/xbmc-hub-repo/raw/master/addons.xml</xml>
+<zips>https://offshoregit.com/xbmchub/xbmc-hub-repo/raw/master/</zips>
+</item>
+
+<item>
+<title>Pypherlocker(Project Cypher) Repository</title>
+<repo_path>repository.Cypherslocker</repo_path>
+<xml>https://github.com/CypherMediaGIT/CypherRepo/raw/master/cypherrepo/plugins/addons.xml</xml>
+<zips>https://github.com/CypherMediaGIT/CypherRepo/raw/master/cypherrepo/plugins</zips>
+</item>
+
+<item>
+<title>Reaper Repository</title>
+<repo_path>repository.reaper</repo_path>
+<xml>https://raw.githubusercontent.com/reaperaddons/repository.reaper/master/addons.xml</xml>
+<zips>https://raw.githubusercontent.com/reaperaddons/repository.reaper/master/zips/</zips>
+</item>
+
+<item>
+<title>Filmkodi(Specto) Repository</title>
+<repo_path>repository.filmkodi.com</repo_path>
+<xml>http://kodi.filmkodi.com/addons.xml</xml>
+<zips>http://kodi.filmkodi.com/</zips>   
+</item>
+
+<item>
+<title>ECHO XXX Repository</title>
+<repo_path>repository.xxxecho</repo_path>
+<xml>https://raw.githubusercontent.com/echocoderkodi/repository.xxxecho/master/addons.xml</xml>
+<zips>https://raw.githubusercontent.com/echocoderkodi/repository.xxxecho/master/zips/</zips>
+</item>
+
+<item>
+<title>Tomb Raider Repository</title>
+<repo_path>repository.tombraider.official</repo_path>
+<xml>http://tombraiderbuilds.netne.net/repository/addons.xml</xml>
+<zips>http://tombraiderbuilds.netne.net/repository/zips/</zips>
+</item>
+
+<item>
+<title>Ultimate Whitecream Repository</title>
+<repo_path>repository.whitecream</repo_path>
+<xml>http://offshoregit.com/whitecream/addons.xml</xml>
+<zips>http://offshoregit.com/whitecream/</zips>
+</item>
