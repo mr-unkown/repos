@@ -9,7 +9,7 @@ fanart="http://aftermathwizard.net/img/test1fa.png"
 
 name="Test build 2"
 version="0.2"
-url="http://aftermathwizard.net/repo/builds/test2.zip"
+url="https://raw.githubusercontent.com/mr-unkown/repos/master/builds.txt"
 gui="http://aftermathwizard.net/repo/builds/test2_guisettings.zip"
 kodi="16.0"
 theme="http://aftermathwizard.net/repo/wizard/test2themes.txt"
