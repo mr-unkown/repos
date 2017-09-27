@@ -1,5 +1,5 @@
 name="Ultimate WhiteCream"
-plugin="plugin.video.uwc"
+plugin=""
 url="https://offshoregit.com/whitecream/plugin.video.uwc/"
 repository="repository.whitecream"
 repositoryxml="https://offshoregit.com/whitecream/addons.xml"
